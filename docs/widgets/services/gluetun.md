@@ -5,7 +5,7 @@ description: Gluetun Widget Configuration
 
 Requires [HTTP control server options](https://github.com/qdm12/gluetun-wiki/blob/main/setup/advanced/control-server.md) to be enabled.
 
-Allowed fields: `["public_ip", "region", "country"]`.
+Allowed fields: `["public_ip", "region", "country", "port_forwarded"]`.
 
 ```yaml
 widget:
