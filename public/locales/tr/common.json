@@ -148,7 +148,9 @@
         "up": "Yükleme",
         "received": "Alınan",
         "sent": "Gönderilen",
-        "externalIPAddress": "Harici IP"
+        "externalIPAddress": "Harici IP",
+        "externalIPv6Address": "Ext. IPv6",
+        "externalIPv6Prefix": "Ext. IPv6-Prefix"
     },
     "caddy": {
         "upstreams": "Akış",
@@ -701,6 +703,10 @@
         "processing": "İşleniyor",
         "processed": "İşlendi",
         "time": "Zaman"
+    },
+    "firefly": {
+        "networth": "Net Worth",
+        "budget": "Budget"
     },
     "grafana": {
         "dashboards": "Kontrol Paneli",

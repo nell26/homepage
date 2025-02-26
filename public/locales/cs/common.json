@@ -148,7 +148,9 @@
         "up": "Up",
         "received": "Přijaté",
         "sent": "Odeslané",
-        "externalIPAddress": "Ext. IP"
+        "externalIPAddress": "Ext. IP",
+        "externalIPv6Address": "Ext. IPv6",
+        "externalIPv6Prefix": "Ext. IPv6-Prefix"
     },
     "caddy": {
         "upstreams": "Odesílání dat",
@@ -701,6 +703,10 @@
         "processing": "Zpracovávání",
         "processed": "Zpracováno",
         "time": "Čas"
+    },
+    "firefly": {
+        "networth": "Net Worth",
+        "budget": "Budget"
     },
     "grafana": {
         "dashboards": "Nástěnky",

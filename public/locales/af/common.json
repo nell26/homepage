@@ -148,7 +148,9 @@
         "up": "Op",
         "received": "Ontvang",
         "sent": "Gestuur",
-        "externalIPAddress": "Ext. IP"
+        "externalIPAddress": "Ext. IP",
+        "externalIPv6Address": "Ext. IPv6",
+        "externalIPv6Prefix": "Ext. IPv6-Voorvoegsel"
     },
     "caddy": {
         "upstreams": "Stroomop",
@@ -701,6 +703,10 @@
         "processing": "Verwerking",
         "processed": "Verwerk",
         "time": "Tyd"
+    },
+    "firefly": {
+        "networth": "Netto Waarde",
+        "budget": "Begroting"
     },
     "grafana": {
         "dashboards": "Dashboards",

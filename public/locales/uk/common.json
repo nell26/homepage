@@ -148,7 +148,9 @@
         "up": "Онлайн",
         "received": "Отримано",
         "sent": "Надіслано",
-        "externalIPAddress": "Зовнішній IP"
+        "externalIPAddress": "Зовнішній IP",
+        "externalIPv6Address": "Ext. IPv6",
+        "externalIPv6Prefix": "Ext. IPv6-Prefix"
     },
     "caddy": {
         "upstreams": "Потоки",
@@ -285,13 +287,13 @@
         "total": "Усього",
         "connected": "З'єднано",
         "new_devices": "Нові пристрої",
-        "down_alerts": "Спов. про падіння"
+        "down_alerts": "Сповіщення про падіння"
     },
     "pihole": {
         "queries": "Запити",
         "blocked": "Заблоковано",
         "blocked_percent": "Заблоковано %",
-        "gravity": "Гравітація"
+        "gravity": "Доменів в списку"
     },
     "adguard": {
         "queries": "Запити",
@@ -702,6 +704,10 @@
         "processed": "Обробка",
         "time": "Час"
     },
+    "firefly": {
+        "networth": "Net Worth",
+        "budget": "Budget"
+    },
     "grafana": {
         "dashboards": "Інформаційні панелі",
         "datasources": "Джерела даних",
@@ -856,7 +862,7 @@
         "platforms": "Платформи",
         "totalRoms": "Ігри",
         "saves": "Збереження",
-        "states": "Штати",
+        "states": "Стани",
         "screenshots": "Знімки екрану",
         "totalfilesize": "Загальний обсяг"
     },

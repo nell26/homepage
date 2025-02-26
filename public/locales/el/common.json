@@ -148,7 +148,9 @@
         "up": "Ping up",
         "received": "Ληφθέντα",
         "sent": "Απεσταλμένα",
-        "externalIPAddress": "Εξωτερική IP"
+        "externalIPAddress": "Εξωτερική IP",
+        "externalIPv6Address": "Ext. IPv6",
+        "externalIPv6Prefix": "Ext. IPv6-Prefix"
     },
     "caddy": {
         "upstreams": "Upstreams",
@@ -701,6 +703,10 @@
         "processing": "Σε επεξεργασία",
         "processed": "Σε επεξεργασία",
         "time": "Ώρα"
+    },
+    "firefly": {
+        "networth": "Net Worth",
+        "budget": "Budget"
     },
     "grafana": {
         "dashboards": "Πίνακας Ελέγχου",

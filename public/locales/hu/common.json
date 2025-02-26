@@ -148,7 +148,9 @@
         "up": "Fel",
         "received": "Fogadott",
         "sent": "Küldött",
-        "externalIPAddress": "Külső IP cím"
+        "externalIPAddress": "Külső IP cím",
+        "externalIPv6Address": "Ext. IPv6",
+        "externalIPv6Prefix": "Ext. IPv6-Prefix"
     },
     "caddy": {
         "upstreams": "Upstreamek",
@@ -701,6 +703,10 @@
         "processing": "Feldolgozás",
         "processed": "Feldolgozott",
         "time": "Idő"
+    },
+    "firefly": {
+        "networth": "Nettó érték",
+        "budget": "Költségkeret"
     },
     "grafana": {
         "dashboards": "Műszerfalak",

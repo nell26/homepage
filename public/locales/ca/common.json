@@ -148,7 +148,9 @@
         "up": "Actiu",
         "received": "Rebuts",
         "sent": "Enviats",
-        "externalIPAddress": "IP ext."
+        "externalIPAddress": "IP ext.",
+        "externalIPv6Address": "Ext. IPv6",
+        "externalIPv6Prefix": "Ext. IPv6-Prefix"
     },
     "caddy": {
         "upstreams": "Upstreams",
@@ -701,6 +703,10 @@
         "processing": "Processant",
         "processed": "Processat",
         "time": "Temps"
+    },
+    "firefly": {
+        "networth": "Net Worth",
+        "budget": "Budget"
     },
     "grafana": {
         "dashboards": "Taulells",

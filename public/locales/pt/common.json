@@ -148,7 +148,9 @@
         "up": "Up",
         "received": "Recebido",
         "sent": "Enviado",
-        "externalIPAddress": "Endereço IP Externo"
+        "externalIPAddress": "Endereço IP Externo",
+        "externalIPv6Address": "Ext. IPv6",
+        "externalIPv6Prefix": "Ext. IPv6-Prefix"
     },
     "caddy": {
         "upstreams": "Upstreams",
@@ -701,6 +703,10 @@
         "processing": "A Processar",
         "processed": "Processado",
         "time": "Hora"
+    },
+    "firefly": {
+        "networth": "Net Worth",
+        "budget": "Budget"
     },
     "grafana": {
         "dashboards": "Painéis",

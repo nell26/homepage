@@ -148,7 +148,9 @@
         "up": "Op",
         "received": "Modtaget",
         "sent": "Sendt",
-        "externalIPAddress": "Ekstern IP"
+        "externalIPAddress": "Ekstern IP",
+        "externalIPv6Address": "Ext. IPv6",
+        "externalIPv6Prefix": "Ext. IPv6-Prefix"
     },
     "caddy": {
         "upstreams": "Upstreams",
@@ -701,6 +703,10 @@
         "processing": "Behandler",
         "processed": "Behandlet",
         "time": "Tid"
+    },
+    "firefly": {
+        "networth": "Net Worth",
+        "budget": "Budget"
     },
     "grafana": {
         "dashboards": "Kontrolpanel",
