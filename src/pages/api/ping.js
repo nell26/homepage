@@ -30,6 +30,7 @@ export default async function handler(req, res) {
     hostname = new URL(pingHostOrURL).hostname;
   } catch (e) {
     // eslint-disable-line no-empty
+    hostname = pingHostOrURL;
   }
 
   try {
