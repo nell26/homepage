@@ -148,7 +148,9 @@
         "up": "Up",
         "received": "수신됨",
         "sent": "전송됨",
-        "externalIPAddress": "Ext. IP"
+        "externalIPAddress": "Ext. IP",
+        "externalIPv6Address": "Ext. IPv6",
+        "externalIPv6Prefix": "Ext. IPv6-Prefix"
     },
     "caddy": {
         "upstreams": "Upstreams",
@@ -701,6 +703,10 @@
         "processing": "처리 중",
         "processed": "처리됨",
         "time": "Time"
+    },
+    "firefly": {
+        "networth": "Net Worth",
+        "budget": "Budget"
     },
     "grafana": {
         "dashboards": "대시보드",

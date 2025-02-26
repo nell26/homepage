@@ -148,7 +148,9 @@
         "up": "Povezan",
         "received": "Prejeto",
         "sent": "Poslano",
-        "externalIPAddress": "Zun. IP"
+        "externalIPAddress": "Zun. IP",
+        "externalIPv6Address": "Ext. IPv6",
+        "externalIPv6Prefix": "Ext. IPv6-Prefix"
     },
     "caddy": {
         "upstreams": "Pretok gor",
@@ -701,6 +703,10 @@
         "processing": "Procesiram",
         "processed": "Procesiran",
         "time": "Čas"
+    },
+    "firefly": {
+        "networth": "Neto vrednost",
+        "budget": "Proračun"
     },
     "grafana": {
         "dashboards": "Nadzorne plošče",

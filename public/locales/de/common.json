@@ -148,7 +148,9 @@
         "up": "Senden",
         "received": "Empfangen",
         "sent": "Gesendet",
-        "externalIPAddress": "Externe IP"
+        "externalIPAddress": "Externe IP",
+        "externalIPv6Address": "Ext. IPv6",
+        "externalIPv6Prefix": "Ext. IPv6-Prefix"
     },
     "caddy": {
         "upstreams": "Upstreams",
@@ -350,7 +352,7 @@
         "queue": "Warteschlange",
         "processed": "Verarbeitet",
         "errored": "Fehlgeschlagen",
-        "saved": "Gespeichert"
+        "saved": "Eingespart"
     },
     "traefik": {
         "routers": "Router",
@@ -701,6 +703,10 @@
         "processing": "Wird verarbeitet",
         "processed": "Verarbeitet",
         "time": "Zeit"
+    },
+    "firefly": {
+        "networth": "Reinvermögen",
+        "budget": "Budget"
     },
     "grafana": {
         "dashboards": "Dashboards",
